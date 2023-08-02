@@ -1,0 +1,45 @@
+.file-input {
+    width: 100px !important;
+    height: 100px !important;
+    opacity: 0;
+
+    :hover {
+        background: #ccc;
+    }
+}
+
+.uploaded-img {
+    height: 100px !important;
+}
+
+.file-uploader-mask {
+    position: absolute;
+    border-radius: 5px;
+    width: 100px !important;
+    height: 100px !important;
+    border: 2px dashed #ccc;
+}
+
+.file-uploader-icon {
+    width: 35px !important;
+    height: 35px !important;
+
+}
+
+.dropzone-container {
+    position: relative;
+}
+
+.dropzone-uploader-mask {
+    width: 100%;
+    position: absolute;
+    border-radius: 5px;
+    height: 100px !important;
+    border: 2px dashed #ccc;
+}
+
+.dropzone-input {
+    width: 100% !important;
+    height: 100px !important;
+    opacity: 0;
+}

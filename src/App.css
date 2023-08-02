@@ -1,0 +1,12 @@
+/* text editor  */
+.rdw-editor-main {
+    background-color: #f5f6f9;
+    border: 1px solid#eee;
+    margin-bottom: 17px;
+    padding: 7px 17px 7px 17px;
+    line-height: 27px;
+    font-size: 15px;
+}
+.public-DraftEditor-content {
+    min-height: 300px;
+}
